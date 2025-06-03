@@ -1,0 +1,7 @@
+body{background-color: rgb(148, 145, 211);}
+
+p {
+    color: #231e32; /* Blanco para que contraste con el azul del div */
+    font-size: 18px;
+    
+}
