@@ -9,6 +9,6 @@ function setup() {
 
 function draw() {
   background(220);
-  translate (width/2, height/2);
-  image (capture, windowWidth*5, windowHeight*5 , 400,  800);
+  imageMode(CENTER)
+  image (capture, 0, 0);
 }
