@@ -37,7 +37,8 @@
       font-weight: 700;
       font-size: 3em;
       margin-bottom: 0.5em;
-      color: #222;
+      color: #e4e6ea;
+      font-family: 'Poppins', sans-serif;
     }
 
     h2 {
@@ -46,6 +47,7 @@
   font-size: 2em;
   margin: 1.5em 0 0.5em 0;
   color: #ededed;
+  font-family: 'Poppins', sans-serif;
 }
 
     p {
